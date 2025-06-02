@@ -25,7 +25,5 @@ cargo build --release
 
 cargo install --path .
 
-echo "export PATH='$HOME/.cargo/bin:$PATH' > ~/.bashrc"
-
 . ~/.bashrc
 ```
